@@ -1,0 +1,114 @@
+.app {
+  display: flex;
+  justify-content: center;
+}
+
+.right {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.age {
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+#ageLabel {
+  margin-top: 25px;
+  padding-left: 40px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+
+.email {
+  margin-top: 25px;
+  margin-left: 10px;
+}
+
+.emailLabel {
+  margin-top: 25px;
+  padding-left: 40px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+
+.usernamelabel {
+  margin-top: 25px;
+  padding-left: 15px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+#user_id {
+  margin-top: 25px;
+  margin-left: 10px;
+}
+
+.city-label {
+  margin-top: 25px;
+  margin-left: 30px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+
+.city {
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.job {
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.jobLabel {
+  margin-top: 25px;
+  margin-left: 30px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+
+.name {
+  margin-top: 25px;
+  margin-left: 15px;
+}
+
+.nameLabel {
+  margin-top: 25px;
+  margin-left: 20px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+
+.phone {
+  margin-top: 25px;
+  margin-left: 15px;
+}
+
+.phoneLabel {
+  margin-top: 25px;
+  margin-left: 20px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+
+.company {
+  margin-top: 25px;
+  margin-left: 10px;
+}
+
+.companyLabel {
+  margin-top: 25px;
+  margin-left: 10px;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+}
+
+.submitbutton {
+  margin-top: 100px;
+  margin-left: -150px;
+  width: 30%;
+  font-family: 'Ubuntu Condensed', sans-serif;
+  font-size: 14px;
+  color: white;
+  background-color: teal;
+}
